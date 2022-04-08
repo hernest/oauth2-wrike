@@ -1,5 +1,5 @@
 {
-    "name": "michaelkaefer/oauth2-wrike",
+    "name": "hernest/oauth2-wrike",
     "description": "Wrike OAuth 2.0 support for the PHP League's OAuth 2.0 Client",
     "license": "MIT",
     "authors": [
